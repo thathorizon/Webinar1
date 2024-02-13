@@ -5,5 +5,14 @@ public class Main {
         System.out.println("Hello Yandex Practicum!");
         System.out.println("Hello Yandex Practicum!");
         System.out.println("Hello Yandex Practicum!");
+        System.out.println("Hello Yandex Practicum!");
+        System.out.println("Hello Yandex Practicum!");
+        System.out.println("Hello Yandex Practicum!");
+        System.out.println("Hello Yandex Practicum!");
+        System.out.println("Hello Yandex Practicum!");
+        System.out.println("Hello Yandex Practicum!");
+        System.out.println("Hello Yandex Practicum!");
+        System.out.println("Hello Yandex Practicum!");
+
     }
 }
